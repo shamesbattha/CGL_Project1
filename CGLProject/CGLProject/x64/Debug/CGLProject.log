@@ -1,0 +1,6 @@
+﻿  CGLProject.cpp
+C:\Users\TOPLAPTOP\source\repos\CGLProject\CGLProject\CGLProject.cpp(73,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\TOPLAPTOP\source\repos\CGLProject\CGLProject\CGLProject.cpp(73,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\TOPLAPTOP\source\repos\CGLProject\CGLProject\CGLProject.cpp(73,22): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\TOPLAPTOP\source\repos\CGLProject\CGLProject\CGLProject.cpp(76,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'glew32s.lib'
